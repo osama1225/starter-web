@@ -12,4 +12,4 @@ to be added later
 
 ##CopyRight
 
-@2019
+@2019. All Rights reserved
