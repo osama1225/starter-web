@@ -7,3 +7,7 @@ any purpose for anything that you can imagine
 Sample website with plenty of files for demos
 
 ## Hot To Contribute
+
+##CopyRight
+
+@2019
